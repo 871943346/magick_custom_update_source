@@ -1,0 +1,28 @@
+{
+    "app": {
+      "version": "8.0.7",
+      "versionCode": "4834",
+      "link": "https://host.mintimate.cn/fileHost/download/MTM1MTcxODA2NDExODQwNzE2OQ==",
+      "note": "https://gitee.com/mintimate/magick_custom_update_source/raw/master/note/app/manager_807.md"
+    },
+  "uninstaller": {
+    "link": "https://host.mintimate.cn/fileHost/download/MTM0MDMwMzc2MTkwOTgwNTA1OA=="
+  },
+  "magisk": {
+    "version": "21.4"
+    ,"versionCode": "21400"
+    ,"link": "https://host.mintimate.cn/fileHost/download/MTM1MTcxOTg1MDU0Nzk3ODI0Mg=="
+    ,"note": "https://gitee.com/mintimate/magick_custom_update_source/raw/master/note/installer/installer_canary.md"
+    ,"md5": "ee6dd05579776e7de3a6077087846e53"
+  },
+  "stub": {
+    "versionCode": "15",
+    "link": "https://host.mintimate.cn/fileHost/download/MTM0Mzg5ODY2NDkxNzAwODM4NQ=="
+  },
+  "message":{
+  	"Power By":"Mintimate"
+  	,"My Bilibili":"Mintimate"
+  	,"My Coolapk":"Mintimate"
+  	,"Blog":"https://www.mintimate.cn"
+  }
+}
